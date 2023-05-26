@@ -2,6 +2,7 @@
 test.py
 test.ipynb
 model/
+credits.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
